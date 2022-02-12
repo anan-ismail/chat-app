@@ -1,13 +1,9 @@
-.body {
-  color: black;
-}
-
 .container {
   max-width: 600px;
 }
 .btn {
-  background: #43d9be;
-  color: white;
+  background: #439dd9;
+  color: black;
   outline: none !important;
   box-shadow: none !important;
 }
